@@ -1,5 +1,5 @@
 # Týden vědy na Jaderce 2024
-# Project 50: Radiation Exposure from Cosmic Rays on Aircraft
+# Radiation Exposure from Cosmic Rays on Aircraft
 
 **Mentor: Ing. Ondřej Ploc, Ph.D. ([ODZ ÚJF AV ČR](https://www.ujf.cas.cz/cs/oddeleni/oddeleni-dozimetrie-zareni/))**
 
