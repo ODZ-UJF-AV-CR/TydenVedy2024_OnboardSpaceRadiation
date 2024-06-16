@@ -1,7 +1,10 @@
 # [Týden vědy na Jaderce 2024](https://tydenvedy.fjfi.cvut.cz/)
 # Radiation Exposure from Cosmic Rays on Aircraft
 
-**Mentor: Ing. Ondřej Ploc, Ph.D. ([ODZ ÚJF AV ČR](https://www.ujf.cas.cz/cs/oddeleni/oddeleni-dozimetrie-zareni/))**
+**Mentor:** Ing. Ondřej Ploc, Ph.D. ([ODZ ÚJF AV ČR](https://www.ujf.cas.cz/cs/oddeleni/oddeleni-dozimetrie-zareni/))
+
+![EOSR2791](https://github.com/ODZ-UJF-AV-CR/TydenVedy2024_OnboardSpaceRadiation/assets/5196729/b872b631-2bc0-4136-8cd6-d5eab8463123)
+
 
 ## Project Overview
 
@@ -9,13 +12,13 @@ How is cosmic radiation detected on aircraft? What is the relationship between r
 
 ### Instrumentation
 
-This measurement flight was conducted on June 16, 2024, from the Lhota Airport near Příbram. Several instruments were onboard to measure cosmic radiation:
+This measurement flight was conducted on June 16, 2024, from the [Příbram Airport](https://www.letiste-pribram.cz/) Dlouhá lhota, near to Příbram city. Several instruments were onboard to measure cosmic radiation:
 
 - 2x [AIRDOS04](https://docs.dos.ust.cz/airdos/AIRDOS04/manual)
 - 3x [LABDOS01](https://docs.dos.ust.cz/labdos/LABDOS01)
 - 2x RT Particle Detector
 - 1x (another detector)
-- 1x Barometer with GPS 
+- 1x Barometer with GPS
 
 ### Objectives
 
