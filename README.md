@@ -34,4 +34,9 @@ This measurement flight was conducted on June 16, 2024, 14:25:50 CEST (12:25:50 
 The graph below illustrates the altitude profile of the flight, showcasing data from both barometric (BAR) and GPS measurements. The ascent and descent phases are clearly marked, with a peak altitude of around 4000 meters.
 
 
+<p align="center">
+  <img src="/data/ALTIMET01_GPS02/mapa_3d.png" alt="První obrázek" width="48%">
+  <img src="/data/ALTIMET01_GPS02/trajectory_over_map.png" alt="Druhý obrázek" width="48%">
+</p>
+
 ![obrazek](https://github.com/ODZ-UJF-AV-CR/TydenVedy2024_OnboardSpaceRadiation/assets/5196729/ae842b6e-afdc-411a-9d97-bd838b8f65de)
