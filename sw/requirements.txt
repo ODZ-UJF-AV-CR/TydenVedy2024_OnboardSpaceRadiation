@@ -1,0 +1,3 @@
+pymlab
+gpsd-py3
+numpy
