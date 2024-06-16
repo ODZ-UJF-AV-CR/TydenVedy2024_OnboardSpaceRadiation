@@ -11,8 +11,7 @@
 How is cosmic radiation detected on aircraft? What is the relationship between radiation intensity, altitude, and geographical location? How is the radiation exposure of aircraft crews evaluated? During this mini-project, we will attempt to answer these questions and more. If weather conditions permit, the project will include a measurement flight with a radiation detector reaching an altitude of 4000 meters.
 
 ### Instrumentation
-
-This measurement flight was conducted on June 16, 2024, from the [Příbram Airport](https://www.letiste-pribram.cz/) Dlouhá lhota, near to Příbram city. Several instruments were onboard to measure cosmic radiation:
+Several instruments were onboard to measure cosmic radiation:
 
 - 2x [AIRDOS04](https://docs.dos.ust.cz/airdos/AIRDOS04/manual)
 - 3x [LABDOS01](https://docs.dos.ust.cz/labdos/LABDOS01)
@@ -28,5 +27,11 @@ This measurement flight was conducted on June 16, 2024, from the [Příbram Airp
 
 
 ### Flight details
+This measurement flight was conducted on June 16, 2024, 14:25:50 CEST (12:25:50 UTC; takeoff-time), from the [Příbram Airport](https://www.letiste-pribram.cz/). Dlouhá lhota, near to Příbram city. This flight resembled those typically used for skydiving jumps. The aircraft ascended to an altitude of approximately 4000 meters, providing an ideal environment for detecting cosmic radiation.
+
+### Flight Altitude Profile
+
+The graph below illustrates the altitude profile of the flight, showcasing data from both barometric (BAR) and GPS measurements. The ascent and descent phases are clearly marked, with a peak altitude of around 4000 meters.
+
 
 ![obrazek](https://github.com/ODZ-UJF-AV-CR/TydenVedy2024_OnboardSpaceRadiation/assets/5196729/ae842b6e-afdc-411a-9d97-bd838b8f65de)
