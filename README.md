@@ -11,8 +11,8 @@ How is cosmic radiation detected on aircraft? What is the relationship between r
 
 This measurement flight was conducted on June 16, 2024, from the Lhota Airport near Příbram. Several instruments were onboard to measure cosmic radiation:
 
-- 2x AIRDOS04A
-- 3x LABDOS01A
+- 2x [AIRDOS04](https://docs.dos.ust.cz/airdos/AIRDOS04/manual)
+- 3x [LABDOS01](https://docs.dos.ust.cz/labdos/LABDOS01)
 - 2x RT Particle Detector
 - 1x (another detector)
 - 1x Barometer with GPS 
