@@ -32,7 +32,7 @@ The [AIRDOS04](https://docs.dos.ust.cz/airdos/AIRDOS04) is a dosimeter specifica
 
 [LABDOS01](https://docs.dos.ust.cz/labdos/LABDOS01) is a versatile dosimeter used for the precise measurement of ionizing radiation. While it is often used in laboratory settings, its robust design makes it suitable for field use, including on aircraft. During the flight, LABDOS01 units were used to gather additional data alongside the AIRDOS04 devices.
 
-### RT
+### Georadis RT-56
 
 ### Another detector
 
