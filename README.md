@@ -15,7 +15,7 @@ Several instruments were onboard to measure cosmic radiation:
 
 - 2x [AIRDOS04](https://docs.dos.ust.cz/airdos/AIRDOS04)
 - 3x [LABDOS01](https://docs.dos.ust.cz/labdos/LABDOS01)
-- 2x RT Particle Detector
+- 2x RT-56 Particle Detector
 - 1x (another detector)
 - 1x Barometer with GPS
 
