@@ -44,6 +44,7 @@ The [AIRDOS04](https://docs.dos.ust.cz/airdos/AIRDOS04) is a dosimeter specifica
 
 <p align="center">
   <img src="/doc/rt_loc.jpg" alt="RT" width="48%">
+  <img src="/doc/rt_loc.jpg2" alt="RT" width="48%">
 </p>
 
 ### Another detector
