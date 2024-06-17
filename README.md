@@ -3,7 +3,7 @@
 
 **Mentor:** Ing. Ondřej Ploc, Ph.D. ([ODZ ÚJF AV ČR](https://www.ujf.cas.cz/cs/oddeleni/oddeleni-dozimetrie-zareni/))
 
-![EOSR2791](https://github.com/ODZ-UJF-AV-CR/TydenVedy2024_OnboardSpaceRadiation/assets/5196729/b872b631-2bc0-4136-8cd6-d5eab8463123)
+![Title image](doc/title.jpg)
 
 
 ## Project Overview
@@ -23,6 +23,12 @@ Several instruments were onboard to measure cosmic radiation:
 
 The [AIRDOS04](https://docs.dos.ust.cz/airdos/AIRDOS04) is a dosimeter specifically designed for measuring ionizing radiation in aviation environments. This device is tailored to monitor radiation levels encountered during flights at high altitudes, providing essential data for assessing the exposure of both passengers and crew. The AIRDOS04 is capable of detecting various forms of ionizing radiation, including gamma rays, and is built to operate reliably under the conditions found in aircraft. Its measurements help in understanding the radiation environment at different flight levels and can be used to evaluate the potential health risks associated with prolonged exposure to cosmic radiation during flights.
 
+
+<p align="center">
+  <img src="/doc/AIRDOS04_placement.jpg" alt="AIRDOS04" width="48%">
+  <img src="https://github.com/UniversalScientificTechnologies/AIRDOS04/blob/AIRDOS04A/doc/img/AIRDOS04.jpg" alt="2D map" width="48%">
+</p>
+
 ### LABDOS01
 
 [LABDOS01](https://docs.dos.ust.cz/labdos/LABDOS01) is a versatile dosimeter used for the precise measurement of ionizing radiation. While it is often used in laboratory settings, its robust design makes it suitable for field use, including on aircraft. During the flight, LABDOS01 units were used to gather additional data alongside the AIRDOS04 devices.
@@ -38,6 +44,13 @@ The barometric pressure was measured using the [MLAB I2C sensor ALTIMET01](https
 In addition to the barometric sensor, the flight data included positional information provided by the [MLAB GPS sensor GPS02B](https://www.mlab.cz/module/GPS02). This GPS module offers accurate geographic coordinates, including latitude, longitude, and altitude, which are essential for tracking the flight path and correlating with the barometric altitude measurements. The GPS02B ensures that the positional data is accurate and reliable, supporting comprehensive analysis of the radiation measurements in relation to the aircraft's altitude and location.
 
 The data from the barometric sensor ALTIMET01A and the GPS module GPS02B were logged using a computer with Python [script](/sw/altimet_gps_logger.py), using [PyMLAB](https://github.com/MLAB-project/pymlab) python library.
+
+
+
+<p align="center">
+  <img src="/doc/ALTIMET_placement.jgp" alt="ALTIMET" width="48%">
+  <img src="/doc/" alt="2D map" width="48%">
+</p>
 
 ### Objectives
 
