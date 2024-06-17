@@ -18,7 +18,7 @@ How is [cosmic radiation](https://en.wikipedia.org/wiki/Cosmic_ray) detected on 
 - To assess the radiation exposure of aircraft crews using collected data.
 
 
-### Instrumentation
+## Instrumentation
 Several instruments were onboard to measure cosmic radiation:
 
 - 2x [AIRDOS04](https://docs.dos.ust.cz/airdos/AIRDOS04)
@@ -27,7 +27,7 @@ Several instruments were onboard to measure cosmic radiation:
 - 1x (another detector)
 - 1x Barometer with GPS
 
-#### AIRDOS04
+### AIRDOS04
 
 The [AIRDOS04](https://docs.dos.ust.cz/airdos/AIRDOS04) is a dosimeter specifically designed for measuring ionizing radiation in aviation environments. This device is tailored to monitor radiation levels encountered during flights at high altitudes, providing essential data for assessing the exposure of both passengers and crew. The AIRDOS04 is capable of detecting various forms of ionizing radiation, including gamma rays, and is built to operate reliably under the conditions found in aircraft. Its measurements help in understanding the radiation environment at different flight levels and can be used to evaluate the potential health risks associated with prolonged exposure to cosmic radiation during flights.
 
@@ -65,8 +65,9 @@ The data from the barometric sensor ALTIMET01A and the GPS module GPS02B were lo
 </p>
 
 
-### Flight details
-This measurement flight was conducted on June 16, 2024, 14:25:50 CEST (12:25:50 UTC; takeoff-time), from the [Příbram Airport](https://www.letiste-pribram.cz/). Dlouhá lhota, near to Příbram city. This flight resembled those typically used for skydiving jumps. The aircraft ascended to an altitude of approximately 4000 meters, providing an ideal environment for detecting cosmic radiation. Used aircraft was [Pilatus PC-6 Turbo-Porter](https://en.wikipedia.org/wiki/Pilatus_PC-6_Porter)
+## Flight details
+This measurement flight was conducted on June 16, 2024, 14:25:50 CEST (12:25:50 UTC; takeoff-time), from the [Příbram Airport](https://www.letiste-pribram.cz/). Dlouhá lhota, near to Příbram city. This flight resembled those typically used for skydiving jumps. The aircraft ascended to an altitude of approximately 4000 meters, providing an ideal environment for detecting cosmic radiation. Used aircraft was [Pilatus PC-6 Turbo-Porter](https://en.wikipedia.org/wiki/Pilatus_PC-6_Porter). All participants of the experiment were asked to switch their phones to airplane mode and verify that all transmitters were turned off.
+
 
 ### Flight Altitude Profile
 
