@@ -10,6 +10,14 @@
 
 How is [cosmic radiation](https://en.wikipedia.org/wiki/Cosmic_ray) detected on aircraft? What is the relationship between radiation intensity, altitude, and geographical location? How is the radiation exposure of aircraft crews evaluated? During this mini-project, we will attempt to answer these questions and more. If weather conditions permit, the project will include a measurement flight with a radiation detector reaching an altitude of 4000 meters.
 
+
+### Objectives
+
+- To understand the detection methods of cosmic radiation on aircraft.
+- To analyze the variation of radiation intensity with altitude and geographical location.
+- To assess the radiation exposure of aircraft crews using collected data.
+
+
 ### Instrumentation
 Several instruments were onboard to measure cosmic radiation:
 
@@ -53,12 +61,6 @@ The data from the barometric sensor ALTIMET01A and the GPS module GPS02B were lo
 <p align="center">
   <img src="/doc/ALTIMET_loc.jpg" alt="ALTIMET" width="48%">
 </p>
-
-### Objectives
-
-- To understand the detection methods of cosmic radiation on aircraft.
-- To analyze the variation of radiation intensity with altitude and geographical location.
-- To assess the radiation exposure of aircraft crews using collected data.
 
 
 ### Flight details
