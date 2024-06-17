@@ -59,7 +59,7 @@ The data from the barometric sensor ALTIMET01A and the GPS module GPS02B were lo
 
 
 ### Flight details
-This measurement flight was conducted on June 16, 2024, 14:25:50 CEST (12:25:50 UTC; takeoff-time), from the [Příbram Airport](https://www.letiste-pribram.cz/). Dlouhá lhota, near to Příbram city. This flight resembled those typically used for skydiving jumps. The aircraft ascended to an altitude of approximately 4000 meters, providing an ideal environment for detecting cosmic radiation.
+This measurement flight was conducted on June 16, 2024, 14:25:50 CEST (12:25:50 UTC; takeoff-time), from the [Příbram Airport](https://www.letiste-pribram.cz/). Dlouhá lhota, near to Příbram city. This flight resembled those typically used for skydiving jumps. The aircraft ascended to an altitude of approximately 4000 meters, providing an ideal environment for detecting cosmic radiation. Used aircraft was [Pilatus PC-6 Turbo-Porter](https://en.wikipedia.org/wiki/Pilatus_PC-6_Porter)
 
 ### Flight Altitude Profile
 
