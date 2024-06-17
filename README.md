@@ -34,6 +34,10 @@ The [AIRDOS04](https://docs.dos.ust.cz/airdos/AIRDOS04) is a dosimeter specifica
 
 ### Georadis RT-56
 
+<p align="center">
+  <img src="/doc/rt_loc.jpg" alt="RT" width="48%">
+</p>
+
 ### Another detector
 
 ### Barometer with GPS
@@ -48,7 +52,6 @@ The data from the barometric sensor ALTIMET01A and the GPS module GPS02B were lo
 
 <p align="center">
   <img src="/doc/ALTIMET_loc.jpg" alt="ALTIMET" width="48%">
-  <img src="/doc/" alt="ALTIMET" width="48%">
 </p>
 
 ### Objectives
