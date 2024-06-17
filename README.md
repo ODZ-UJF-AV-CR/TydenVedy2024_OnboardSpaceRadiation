@@ -23,10 +23,9 @@ Several instruments were onboard to measure cosmic radiation:
 
 The [AIRDOS04](https://docs.dos.ust.cz/airdos/AIRDOS04) is a dosimeter specifically designed for measuring ionizing radiation in aviation environments. This device is tailored to monitor radiation levels encountered during flights at high altitudes, providing essential data for assessing the exposure of both passengers and crew. The AIRDOS04 is capable of detecting various forms of ionizing radiation, including gamma rays, and is built to operate reliably under the conditions found in aircraft. Its measurements help in understanding the radiation environment at different flight levels and can be used to evaluate the potential health risks associated with prolonged exposure to cosmic radiation during flights.
 
-
 <p align="center">
-  <img src="/doc/AIRDOS04_placement.jpg" alt="AIRDOS04" width="48%">
-  <img src="https://github.com/UniversalScientificTechnologies/AIRDOS04/blob/AIRDOS04A/doc/img/AIRDOS04.jpg" alt="2D map" width="48%">
+  <img src="/doc/AIRDOS04_loc.jpg" alt="AIRDOS04" width="48%">
+  <img src="https://github.com/UniversalScientificTechnologies/AIRDOS04/blob/AIRDOS04A/doc/img/AIRDOS04.jpg" alt="AIRDOS04" width="48%">
 </p>
 
 ### LABDOS01
@@ -48,8 +47,8 @@ The data from the barometric sensor ALTIMET01A and the GPS module GPS02B were lo
 
 
 <p align="center">
-  <img src="/doc/ALTIMET_placement.jgp" alt="ALTIMET" width="48%">
-  <img src="/doc/" alt="2D map" width="48%">
+  <img src="/doc/ALTIMET_loc.jpg" alt="ALTIMET" width="48%">
+  <img src="/doc/" alt="ALTIMET" width="48%">
 </p>
 
 ### Objectives
