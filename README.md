@@ -41,6 +41,7 @@ The [AIRDOS04](https://docs.dos.ust.cz/airdos/AIRDOS04) is a dosimeter specifica
 [LABDOS01](https://docs.dos.ust.cz/labdos/LABDOS01) is a versatile dosimeter used for the precise measurement of ionizing radiation. While it is often used in laboratory settings, its robust design makes it suitable for field use, including on aircraft. During the flight, LABDOS01 units were used to gather additional data alongside the AIRDOS04 devices.
 
 ### Georadis RT-56
+The Georadis RT-56 is an scintilator based gamma-ray spectrometer designed for long-term gamma radiation monitoring. It includes a CPU for data acquisition, and communication. The device is able to work from internal batteries, which is useful for long duration measurements on various sites. 
 
 <p align="center">
   <img src="/doc/rt_loc.jpg" alt="RT" width="48%">
