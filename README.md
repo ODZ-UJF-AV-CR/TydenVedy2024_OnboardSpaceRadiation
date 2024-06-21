@@ -24,7 +24,7 @@ Several instruments were onboard to measure cosmic radiation:
 - 2x [AIRDOS04](https://docs.dos.ust.cz/airdos/AIRDOS04)
 - 3x [LABDOS01](https://docs.dos.ust.cz/labdos/LABDOS01)
 - 2x RT-56 Particle Detector
-- 1x (another detector)
+- 1x HAWK Detector
 - 1x Barometer with GPS
 
 ### AIRDOS04
@@ -48,8 +48,8 @@ The Georadis RT-56 is an scintilator based gamma-ray spectrometer designed for l
   <img src="/doc/rt_loc2.jpg" alt="RT" width="48%">
 </p>
 
-### Another detector
-
+### HAWK
+The HAWK detector is an aerial gamma spectrometer designed for locating radionuclide sources and estimating their activity. It is part of a calibration model that includes the D230A spectrometer with two NaI(Tl) 2 × 2 inch detectors. The device has been calibrated for various radionuclides at flight altitudes ranging from 1 to 25 meters.
 ### Barometer with GPS
 
 The barometric pressure was measured using the [MLAB I2C sensor ALTIMET01](https://www.mlab.cz/module/ALTIMET01). This sensor is designed to accurately measure atmospheric pressure, which can be used to determine altitude. The ALTIMET01A provides high-resolution pressure readings, making it suitable for applications requiring precise altitude calculations, such as aviation.
