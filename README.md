@@ -80,3 +80,8 @@ The graph below illustrates the altitude profile of the flight, showcasing data 
 </p>
 
 ![obrazek](https://github.com/ODZ-UJF-AV-CR/TydenVedy2024_OnboardSpaceRadiation/assets/5196729/ae842b6e-afdc-411a-9d97-bd838b8f65de)
+
+
+### Project Output
+
+The desired outcome of the "Týden Vědy Na Jaderce" project is a article written by the participating students. This article, written in Czech, encapsulates their findings and experiences from the experiment. You can view the article as a PDF [here](doc/letletadlem_xx_180624_1906.pdf).
